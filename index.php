@@ -97,7 +97,7 @@ https://templatemo.com/tm-570-chain-app-dev
                 <div class="row">
                   <div class="col-lg-12">
                     <h2>Anugerah <br>
-                      Revolusi Mental</h2>
+                      Revolusi Mental 2022</h2>
                     <p>Merupakan apresiasi terhadap usaha dan upaya
                       yang telah dilakukan oleh Lembaga Pemerintah,
                       Swasta dan Masyarakat atau gerakan komunitas
@@ -151,7 +151,19 @@ https://templatemo.com/tm-570-chain-app-dev
       </div>
     </div>
   </div>
-  
+  <br>
+  <div id="kriteria" class="services section">
+    <div class="container">
+      <div class="row">
+        <div class="section-heading  wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.5s">
+          <h4>NILAI REVOLUSI MENTAL</h4>
+        </div>
+        <div class="col-lg-12">
+          <img src="assets/images/nilairevmen.png" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
 
   <div class="services section">
     <div class="container">
