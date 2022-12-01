@@ -271,8 +271,10 @@ https://templatemo.com/tm-570-chain-app-dev
             <div class="grid">
               <div class="row">
                 <div class="col-lg-4 align-self-center">
-                    <h4>APAKAH ANDA SALAH SATU
-                    <br>AGEN PERUBAHAN?</h4>
+                    <h4>APAKAH ANDA MENGENAL</h4>
+                    <br><h2>AGEN PERUBAHAN<br>
+                      DI SEKITAR ANDA?
+                    </h2>
                     <!-- <img src="assets/images/heading-line-dec.png" alt=""> -->
                     <br>
                     <div class="border-button">
