@@ -256,7 +256,7 @@ https://templatemo.com/tm-570-chain-app-dev
             <!-- <img src="assets/images/heading-line-dec.png" alt=""> -->
           </div>
           <div class="row">
-            <img src="assets/images/tahapan1.jpg" alt="">
+            <img src="assets/images/tahapan2.jpg" alt="">
           </div>
         </div>
       </div>
