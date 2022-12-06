@@ -282,7 +282,7 @@ https://templatemo.com/tm-570-chain-app-dev
                     </div>
                     <br>
                     <div class="border-button">
-                      <a href="#">Petunjuk Teknis</a>
+                      <a href="https://drive.google.com/file/d/1r7yq3V8_Ui8lyYQYYNBbxpglZkZY6bbL">Petunjuk Teknis</a>
                     </div>
                 </div> 
                 
