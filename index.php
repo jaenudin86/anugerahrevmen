@@ -276,10 +276,10 @@ https://templatemo.com/tm-570-chain-app-dev
                       DI SEKITAR ANDA?
                     </h2>
                     <!-- <img src="assets/images/heading-line-dec.png" alt=""> -->
-                    <br>
-                    <div class="border-button">
+                    <!-- <br> -->
+                    <!-- <div class="border-button">
                       <a href="https://forms.gle/XmCQvetLjQwgkRnBA">Daftar Sekarang</a>
-                    </div>
+                    </div> -->
                     <br>
                     <div class="border-button">
                       <a href="https://drive.google.com/file/d/1r7yq3V8_Ui8lyYQYYNBbxpglZkZY6bbL">Petunjuk Teknis</a>
